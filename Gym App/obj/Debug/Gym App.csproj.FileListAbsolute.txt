@@ -1,0 +1,7 @@
+C:\Users\kirun\source\repos\Gym App\Gym App\bin\Debug\Gym App.exe.config
+C:\Users\kirun\source\repos\Gym App\Gym App\bin\Debug\Gym App.exe
+C:\Users\kirun\source\repos\Gym App\Gym App\bin\Debug\Gym App.pdb
+C:\Users\kirun\source\repos\Gym App\Gym App\obj\Debug\Gym App.csprojAssemblyReference.cache
+C:\Users\kirun\source\repos\Gym App\Gym App\obj\Debug\Gym App.csproj.CoreCompileInputs.cache
+C:\Users\kirun\source\repos\Gym App\Gym App\obj\Debug\Gym App.exe
+C:\Users\kirun\source\repos\Gym App\Gym App\obj\Debug\Gym App.pdb
